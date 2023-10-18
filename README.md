@@ -1,4 +1,4 @@
-<h1 align="center">🅷🅸, 🆃🅷🅸🆂 🅸🆂 🅼🆈 🅵🅸🆁🆂🆃 🆆🅴🅱🆂🅸🆃🅴 🅻🅰🆈🅾🆄🆃
-</h1>
+<h1 align="center">Hi✋, this is my first website layout</h1>
 <hr>
-<h3 align="center">I'm new in web programming and design, so good luck to me :)</h3>
+<p>18/10/2023 - ...</p>
+</p>p.s. I'm new in web programming, github and readme 🙈😄👀</p>
